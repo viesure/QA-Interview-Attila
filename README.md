@@ -52,7 +52,7 @@ The API will return the following fields: `city`, `condition`, `icon`, `descript
 ### The API:
 
 The base url of the API is: `https://backend-interview-tokio.tools.gcp.viesure.io`
-<br >**Eg.:** GET `https://backend-interview-tokio.tools.gcp.viesure.i/weather`
+<br >**Eg.:** GET `https://backend-interview-tokio.tools.gcp.viesure.io/weather`
 
 **GET .../weather**
 * You can fetch the endpoint through  `{base_url}/weather` with the following data structure:
